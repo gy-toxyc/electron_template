@@ -23,6 +23,14 @@ Tras eso, ejecutamos el siguiente comando:
 Habremos instalado Electron en nuestro proyecto (se habrán generado node_modules).
 ~~~
 
+Por último, ejecuta los siguientes comandos:
+> npm install @babel/core @babel/register --save-dev<br>
+
+> npm install --save-dev @babel/plugin-syntax-dynamic-import
+~~~
+Esto es un paso esencial si queremos enlazar módulos de JavaScript, es instalar Babel, que nos permitirá pasar la barrera que impone Electron a ciertas funcionalidades de ES6 y utilizar los "import" y "export".
+~~~
+
 Ya podremos organizar el archivo como queramos sin tocar las partes esenciales para el funcionamiento de Electron y NodeJS, que son las siguientes:
 
 >Carpeta "node_modules".<br>
