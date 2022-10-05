@@ -1,8 +1,8 @@
 /*
-
-"app" controls the application's lifecycle.
-"BrowserWindow" creates and manages app windows.
-
+**  
+**  This is the main process of an Electron project.
+**  The main process of an Electron project has access, uniquely, to the NodeJS and Electron modules.
+**
 */
 
 const { app, BrowserWindow, ipcMain } = require('electron');
