@@ -10,7 +10,7 @@
 <b><i>1. Execute this command.</b></i>
 </h2>
 
-<h4>Execute the next command <b><i>startProject.bat</b></i> into any terminal, but being careful to execute it being inside the whole project directory.</h4>
+<h4>Execute the next command into any terminal, but being careful to execute it being inside the whole project directory.</h4>
 <br>
 
 > npm run make
