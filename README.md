@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <i>This Electron template is a simple directory in which you can base your new desktop application project easily.</i>
-</h3><br>
+</h3>
 
 ***
 
@@ -12,7 +12,7 @@
 
 - The folder **"docs"** works as a tutorial here for every basic action you'll take installing and packaging your electron project into a desktop application.
 
-- Firstly, read carefully the **"TEMPLATE.md"** file, it'll teach you how to install Electron, NodeJS modules and BabelJS, which is an addition of mine as I recommend it strongly if you want to use ES6 modules keywords such as "import" or "export".
+- Firstly, read carefully the **"GET_STARTED.md"** file, it'll teach you how to install Electron, NodeJS modules and BabelJS, which is an addition of mine as I recommend it strongly if you want to use ES6 modules keywords such as "import" or "export".
 
 - You must aknowledge that the directories **"node_modules"** and **"electronjs_base"** are mandatory for the project to work properly. You can delete **"docs"** when your project is already set up, as it's just a tutorial. Also, it may be cleared before or after, but this template works as a tutorial to set up your Electron project, but not as a tutorial of how Electron, NodeJS or Babel works, if you need information about those technologies, all documentations of each one will be provided at the end of this document.
 
@@ -22,9 +22,8 @@
 
 ***
 <br>
-Sadly, this template does not cover updates handling yet, as I'm still learning about it, to be honest. But I recomment you actively to visit Electron docs which covers this concept.
+<h4>Sadly, this template does not cover updates handling yet, as I'm still learning about it, to be honest. But I recomment you actively to visit Electron docs which covers this concept.</h4>
 
-<br>
 <a align="left" href="https://www.electronjs.org/docs/latest/">Electron Documentation</a><br>
 <a align="left" href="https://nodejs.org/en/docs/">NodeJS Documentation</a><br>
 <a align="left" href="https://babeljs.io/docs/en/">BabelJS Documentation</a><br>
