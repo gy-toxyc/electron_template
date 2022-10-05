@@ -1,3 +1,12 @@
+/*
+**  
+**  The preload process works as a bridge between the main process and every renderer process.
+**  This process has access to everything.
+**
+**  Here, you state methods or variables to pass them through different processes.
+**
+*/
+
 const { contextBridge, ipcRenderer } = require('electron')
 
 contextBridge.exposeInMainWorld('versions', {
