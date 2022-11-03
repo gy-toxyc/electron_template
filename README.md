@@ -20,7 +20,9 @@
 
 - And in the end, by now, you can execute the last command on **"PACKING.md"** to pack your project into a distributable desktop application.
 <br>
+
 ***
+
 <h4>Sadly, this template does not cover updates handling yet, as I'm still learning about it, to be honest. But I recommend you actively to visit Electron docs which covers this concept.</h4>
 
 <a align="left" href="https://www.electronjs.org/docs/latest/">Electron Documentation</a><br>
