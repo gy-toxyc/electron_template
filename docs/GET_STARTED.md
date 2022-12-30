@@ -14,7 +14,7 @@
 Execute the Bacth file <b><i>setup.bat</b></i> to install Electron and NodeJS modules. After those installations, the batch will put your project inside Electron Forge to make it available to test and to, in the future, pack it up into a distributable desktop application.
 <br>
 NOTE: When filling the project information for the <b><i>package.json</b></i>, in the <b>"entry point"</b> field, write this: <span style="color: #EBB05D">"electron_base/window.js"</span>.
-The Batch file for this installation will delete itself when the process has finished.
+You will have to delete this Batch file manually once the process has finished.
 </h5>
 <br>
 
