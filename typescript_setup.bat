@@ -1,1 +1,1 @@
-mkdir src && mkdir build && npm init && npm install typescript && del typescript_setup.bat
+mkdir src && mkdir build && npm install typescript && del typescript_setup.bat
