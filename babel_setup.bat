@@ -1,0 +1,1 @@
+npm install @babel/core @babel/register --save-dev && npm install --save-dev @babel/plugin-syntax-dynamic-import && del babel_setup.bat

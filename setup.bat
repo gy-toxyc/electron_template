@@ -1,1 +1,1 @@
-npm init && npm install electron --save-dev && npm install @babel/core @babel/register --save-dev && npm install --save-dev @babel/plugin-syntax-dynamic-import && npm install --save-dev @electron-forge/cli && npx electron-forge import
+npm init && npm install electron --save-dev && npm install --save-dev @electron-forge/cli && npx electron-forge import && del setup.bat
